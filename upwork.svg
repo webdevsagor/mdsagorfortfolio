@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Upwork</title>
+  <g fill="none" stroke="#b8e4ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.4">
+    <path d="M10 27v10.5c0 6 3.1 9.5 8.3 9.5s8.3-3.5 8.3-9.5V27"/>
+    <path d="M37 27v25M37 35c2.2-5.4 5.5-8.6 9.4-8.6 5.1 0 8.3 4.4 8.3 10.3s-3.2 10.3-8.3 10.3c-3.9 0-7.2-3.2-9.4-8.6"/>
+  </g>
+</svg>
